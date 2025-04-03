@@ -4,6 +4,7 @@ This Power BI report analyzes Youtube's userbase data and provides key insights.
 
 ## 📊 Dashboard Preview
 ![Dashboard Screenshot](Capture.PNG)
+![Dashboard Screenshot](Capture2.PNG)
 
 ## 📌 Features
 - Userbase trends analysis
